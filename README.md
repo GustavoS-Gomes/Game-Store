@@ -6,8 +6,8 @@ Este projeto foi desenvolvido como parte dos meus estudos de **lógica de progra
 
 ## 📚 Tecnologias utilizadas
 
-- HTML5 (fornecido)
-- CSS3 (fornecido)
+- HTML (fornecido)
+- CSS (fornecido)
 - JavaScript (desenvolvido por mim)
 
 ---
